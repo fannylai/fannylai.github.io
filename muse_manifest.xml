@@ -1,53 +1,29 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="partofyou.lai.com" resolutions="1x" timestamp="1554981585955">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="partofyou.lai.com" resolutions="1x" timestamp="1555577081507">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="263133457" ref="index"/>
+    <file name="index.css" crc="4254881053" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
     <file name="dsc_03652.jpg" crc="201312240" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon.png" crc="164086292" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名-9.png" crc="4089612510" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="all.jpg" crc="50175369" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon2.png" crc="4097947482" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名-5.png" crc="3949154309" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hand and belly-1.jpg" crc="3879459890" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名-6.png" crc="118154264" seo="true" ref="index">
+    <file name="all.jpg" crc="3928255088" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="signal-crop-u213.jpg" crc="117736844" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="signal.png" crc="3888563363" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="未命名-7.png" crc="76416291" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="veins.jpg" crc="3918413978" seo="true" ref="index">
@@ -56,13 +32,48 @@
     <file name="ear.jpg" crc="532616943" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="未命名-5.png" crc="3949154309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-7.png" crc="76416291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-9.png" crc="3915888783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="未命名-8.png" crc="4108390792" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon3.png" crc="446352535" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="4.jpg" crc="479073259" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="4.jpg" crc="479073259" seo="true" ref="index">
+    <file name="5-crop-u7867.png" crc="4051294987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u8145.png" crc="211964794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u8850.png" crc="3809890144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u9053.png" crc="436201662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon.png" crc="4128292229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon2.png" crc="3826307436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand and belly-1.jpg" crc="4135690562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-6.png" crc="118154264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon3.png" crc="80266639" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1.jpg" crc="4067576809" seo="true" ref="index">
@@ -80,7 +91,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="3.png" crc="315420802" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -94,9 +104,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="5-crop-u7867.png" crc="4243242688" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="7.png" crc="4143863791" seo="true" ref="index">
@@ -129,12 +136,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="2-crop-u8145.png" crc="3944896291" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="8.png" crc="3796476603" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -146,26 +148,24 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u8850.png" crc="3964982546" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="6.png" crc="22210544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u9053.png" crc="162634216" seo="true" ref="index">
+    <file name="2-crop-u9235.png" crc="4044973401" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u9235.png" crc="3815160916" seo="true" ref="index">
+    <file name="5-crop-u9295.png" crc="436201662" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="5-crop-u9295.png" crc="312404402" seo="true" ref="index">
+    <file name="signal_工作區域 1.png" crc="4136303027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5544.png" crc="4003365766" ref="index"/>
-    <file name="u5544-r.png" crc="418701080" ref="index"/>
-    <file name="u5544-m.png" crc="4283329773" ref="index"/>
+    <file name="8-crop-u8377.png" crc="111040493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11076-4.png" crc="72742348" ref="index"/>
   </folder>
-  <file name="index.html" crc="4055770577" seo="true" mt="1554979656168" redirect="true"/>
+  <file name="index.html" crc="4043408664" seo="true" mt="1555576851529" redirect="true"/>
 </manifest>

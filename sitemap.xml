@@ -2,38 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://partofyou.lai.com/index.html</loc>
-    <lastmod>2019-04-11</lastmod>
+    <lastmod>2019-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-9.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://partofyou.lai.com/images/all.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://partofyou.lai.com/images/icon2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/hand%20and%20belly-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-6.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://partofyou.lai.com/images/signal-crop-u213.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/signal.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://partofyou.lai.com/images/veins.jpg</image:loc>
@@ -42,13 +18,46 @@
       <image:loc>http://partofyou.lai.com/images/ear.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-9.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-8.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://partofyou.lai.com/images/icon3.png</image:loc>
+      <image:loc>http://partofyou.lai.com/images/4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://partofyou.lai.com/images/4.jpg</image:loc>
+      <image:loc>http://partofyou.lai.com/images/5-crop-u7867.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/2-crop-u8145.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/2-crop-u8850.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/5-crop-u9053.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/icon2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/hand%20and%20belly-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/%E6%9C%AA%E5%91%BD%E5%90%8D-6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/icon3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://partofyou.lai.com/images/1.jpg</image:loc>
@@ -69,9 +78,6 @@
       <image:loc>http://partofyou.lai.com/images/4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://partofyou.lai.com/images/5-crop-u7867.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://partofyou.lai.com/images/7.png</image:loc>
     </image:image>
     <image:image>
@@ -84,28 +90,25 @@
       <image:loc>http://partofyou.lai.com/images/12.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://partofyou.lai.com/images/2-crop-u8145.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://partofyou.lai.com/images/8.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://partofyou.lai.com/images/11.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://partofyou.lai.com/images/2-crop-u8850.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://partofyou.lai.com/images/6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://partofyou.lai.com/images/5-crop-u9053.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://partofyou.lai.com/images/2-crop-u9235.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://partofyou.lai.com/images/5-crop-u9295.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/signal_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://partofyou.lai.com/images/8-crop-u8377.png</image:loc>
     </image:image>
   </url>
 </urlset>
